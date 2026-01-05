@@ -1,0 +1,15 @@
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.csproj.AssemblyReference.cache
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.AssemblyInfoInputs.cache
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.AssemblyInfo.cs
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.csproj.CoreCompileInputs.cache
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Application.deps.json
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Application.dll
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Application.pdb
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Domain.dll
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Domain.pdb
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCo.0AE7FBCC.Up2Date
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.dll
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/refint/OnlineCourses.Application.dll
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.pdb
+/home/dani/Escritorio/Cursos Online /OnlineCourses.Application/obj/Debug/net9.0/ref/OnlineCourses.Application.dll
