@@ -1,3 +1,7 @@
+Daniel Romero Garcia
+Hopper 1007373290
+github:https://github.com/romerodaniel2098/Cursos.git
+
 # Plataforma de Cursos Online (Assessment)
 
 Este proyecto implementa una API REST con .NET 9 y Clean Architecture, consumida por una aplicación frontend en React + Vite.
